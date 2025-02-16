@@ -1,0 +1,5 @@
+discord.py
+instagrapi
+python-dotenv
+Flask
+pillow
