@@ -10,4 +10,4 @@ This Discord bot analyzes Instagram profiles using `instagrapi` and provides a r
    pip install -r requirements.txt
 3. Run :
    ```bash
-   python main.py
+   python bot.py
