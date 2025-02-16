@@ -8,3 +8,6 @@ This Discord bot analyzes Instagram profiles using `instagrapi` and provides a r
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run :
+   ```bash
+   python main.py
